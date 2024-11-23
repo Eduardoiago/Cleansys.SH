@@ -1,4 +1,3 @@
-# CleanSYS LINUX (c)
-## Version 2.0.0
+# CleanSYS
 
-Shell script para otimizar a limpeza do sistema linux baseado em FHS.
+Shell script to optimize FHS-based linux system cleaning.
