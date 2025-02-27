@@ -1,8 +1,7 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
-# --- CleanSYS Linux (c) | Version 2.0
-# --- Development by Iago
-# Shell script para otimizar a limpeza do sistema linux baseado em FHS
+## CleanSYS Linux V2 (c) Iago 2025
+## Shell script para otimizar a limpeza do sistema linux baseado em FHS
 
 if [ "$EUID" -ne 0 ]; then
     	echo -e "\e[1;31mE:\e[0m Por favor, execute o script como root."
